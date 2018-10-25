@@ -16,4 +16,4 @@ Even with a large amount of data, conversion work can be processed with one comm
 1. nmake EXE="addlength.exe" OBJS="addlength.obj" CPPFLAGS="/nologo /EHsc /Zi /O2"
 
 ### Usage
-1.addlength <src_file> <dst_file> 
+.addlength <src_file> <dst_file> 
