@@ -1,0 +1,9 @@
+.vs/
+*.log
+*.dat
+*.bad
+addlength.exe
+addlength.ilk
+addlength.obj
+addlength.pdb
+vc140.pdb
